@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "projects": {
+    "api": "apps/api",
+    "api-interfaces": "libs/api-interfaces",
+    "codesample1": "apps/codesample1",
+    "codesample1-e2e": "apps/codesample1-e2e"
+  }
+}
